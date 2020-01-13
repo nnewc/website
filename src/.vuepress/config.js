@@ -4,7 +4,7 @@ module.exports = {
 	title: "Nathan Newcomb's Website",
 	dest: './public',
 	themeConfig: {
-		repo: 'https://wwww.github.com',
+		repo: 'nnewc/my-blog',
 		repoLabel: 'Repo',
 		editLinks: true,
 		editLinkText: 'Found a bug? Help me improve this page!',
